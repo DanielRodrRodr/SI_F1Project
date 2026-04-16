@@ -1,0 +1,1 @@
+de donde sacaremos la data: https://www.kaggle.com/datasets/aadigupta1601/f1-strategy-dataset-pit-stop-prediction
