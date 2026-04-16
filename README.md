@@ -5,3 +5,5 @@ referencias de proyectos que ya han hecho algo sobre el tema:
 https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1673148/full
 https://search.proquest.com/openview/b75d39187ba4e5b6263fda999c4023ae/1?pq-origsite=gscholar&cbl=2026366&diss=y
 https://aaltodoc.aalto.fi/items/5848c100-478d-45dd-b2e8-5caf3a3114fb
+
+documento: https://docs.google.com/document/d/1yZOtjedQmuXiQNUdszldfdQNFwVM-BCsIotPRAZp5-4/edit?tab=t.0
